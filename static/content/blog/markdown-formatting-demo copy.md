@@ -11,7 +11,7 @@ This example Markdown file compliments of [markdown-it.github.io](https://markdo
 
 ---
 
-# h1 Heading
+# h1 Heading 8-)
 
 ## h2 Heading
 

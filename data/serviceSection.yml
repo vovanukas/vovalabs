@@ -1,45 +1,30 @@
 ---
 enable: true
-topTitle: Working Area
+topTitle:
 title: >
-  ## Creative Services
+  ## Services
 
-  Enjoy team diversity and increase their networks among others people in
-  various fields by provided.
+  From consultation to delivery, I create exceptional recording studios with
+  expert acoustic consulting, design and support.
 service:
   - content: >
-      #### UI/UX Design 
+      #### Consultation & Assessment 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Determine acoustic needs and goals, while assessing the acoustic characteristics
+      of the space and desired outcome.
     image: images/service/ui-ux.svg
   - content: >
-      #### Web Development 
+      #### Design & Calculations
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Use my expertise to design your perfect studio by creating 3D models,
+      modelling your perfect sound and selecting equipment.
     image: images/service/web.svg
   - content: >
-      #### Creative Design 
+      #### Delivery & Revision 
 
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
+      Deliver the completed studio and provide a final walk-through. Address any 
+      concerns or issues, and make the necessary revisions.
+
+
+
     image: images/service/creative.svg
-  - content: >
-      #### Branding
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/branding.svg
-  - content: >
-      #### UI/UX Design
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/ui-ux.svg
-  - content: >
-      #### Web Development
-
-      Lorem ipsum dolor sit amet conset sadipscing elitr, sed diam nonumy eirmod
-      tempor invidunt ut labore et dolore magna aliquyam erat.
-    image: images/service/web.svg

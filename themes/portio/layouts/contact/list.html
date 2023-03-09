@@ -54,9 +54,9 @@
               <img src="{{ "images/contact/location.svg" | absURL }}" alt="location" />
             </div>
           </div>
-          <h4>Office Address</h4>
+          <h4>Fiverr</h4>
           <p>
-            {{ $address.address }}
+            <a target="_blank" href="https://www.fiverr.com/trxlhxds">trxlhxds | Check me out!</a>
           </p>
         </div>
       </div>
@@ -74,10 +74,8 @@
               <img src="{{ "images/contact/phone.svg" | absURL }}" alt="phone" />
             </div>
           </div>
-          <h4>Phone & Email</h4>
-          <p>{{ $address.phone }}<br>
-            <a href="mailto:{{ $address.email }}">{{ $address.email }}</a>
-          </p>
+          <h4>Email</h4>
+            <a href="mailto:info@vovalabs.com">info@vovalabs.com</a>
 
         </div>
       </div>
@@ -97,7 +95,7 @@
           </div>
           <h4>Working Hours</h4>
           <p>
-            {{ $address.openingHours }}
+            9am - 5pm CEST (GMT+1)
           </p>
         </div>
       </div>
@@ -181,9 +179,7 @@
         </div>
       </div>
       <div class="col-lg-6">
-        {{ $map := .Site.Params.map }}
-        <div id="map" data-lat={{ $map.latitude }} data-long={{ $map.longitude }} data-pin={{ $map.pinImage | absURL }}>
-        </div>
+        
       </div>
     </div>
   </div>
