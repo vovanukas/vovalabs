@@ -3,3 +3,7 @@ items:
     description: This code gives us insight into the number of people that visit our website, where they are from and what they are clicking on. We follow the guidelines of the Dutch Government, which describe how to use Google Analytics without requiring explicit consent.
     is_functional: false
     script_file: ga.js
+  - title: Crisp
+    description: This plugin let's me chat with my visitors and see which countries they are from.
+    is_functional: false
+    script_file: crisp.js
