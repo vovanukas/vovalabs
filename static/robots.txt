@@ -1,4 +1,4 @@
 User-agent: *
-{{ range .Pages }}
-Disallow: {{ .RelPermalink }}
-{{ end }}
+Disallow: 
+Disallow: /contact/thanks/
+Sitemap: https://vovalabs.com/sitemap.xml
